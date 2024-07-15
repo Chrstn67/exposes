@@ -11,7 +11,7 @@ docs
 src
 static
 docusaurus.config.js
-package.json
+
 
 # Misc
 .DS_Store
