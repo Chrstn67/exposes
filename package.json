@@ -2,6 +2,7 @@
   "name": "discours",
   "version": "0.0.0",
   "private": true,
+  "homepage": "https://chrstn67.github.io/exposes-discours-publics-joyaux-etudes",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
