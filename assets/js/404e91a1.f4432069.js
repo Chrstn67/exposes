@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkexpose_etude=self.webpackChunkexpose_etude||[]).push([[4830],{3024:e=>{e.exports=JSON.parse('{"tags":[{"label":"Sa\xfcl","permalink":"/exposes/docs/tags/saul","count":1},{"label":"David","permalink":"/exposes/docs/tags/david","count":1},{"label":"Jonathan","permalink":"/exposes/docs/tags/jonathan","count":1}]}')}}]);
